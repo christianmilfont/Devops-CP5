@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CP5DEVOPS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da211ec9e949e21acf74b15b5ed44adb9853ed37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f01533e6fcee836dbf4478801f794eeef985629")]
 [assembly: System.Reflection.AssemblyProductAttribute("CP5DEVOPS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CP5DEVOPS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
