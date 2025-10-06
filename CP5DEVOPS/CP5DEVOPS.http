@@ -1,0 +1,6 @@
+@CP5DEVOPS_HostAddress = http://localhost:5029
+
+GET {{CP5DEVOPS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
